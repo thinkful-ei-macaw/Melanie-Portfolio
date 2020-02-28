@@ -3,7 +3,7 @@
 }
 
 body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
     color: black;
     text-align: center;
@@ -11,7 +11,7 @@ body {
 }
 
 .bio {
-    background-color: lightslategray;
+    background-color: rgb(71, 76, 80);
     padding-top: 8%;
     margin-top: -12%;
     justify-content: center;
@@ -25,11 +25,25 @@ body {
 }
 
 nav, footer {
-    background-color: rgb(14, 14, 207);
+    background-color: rgb(48, 48, 58);
 }
  header {
      padding: 10%;
+     margin-top: -10%;
+ }
+
+ h1 {
+     background-color: grey;
  }
   footer {
       padding-top: -16%;
   }
+
+  @media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+
