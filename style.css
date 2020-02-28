@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.bio {
+    background-color: lightslategray;
+    padding-top: 8%;
+    margin-top: -12%;
+    justify-content: center;
+    text
+
+}
+
+.projects {
+    background-color: rgb(51, 49, 49);
+    padding-bottom: 20%;
+}
+
+nav, footer {
+    background-color: rgb(14, 14, 207);
+}
+ header {
+     padding: 10%;
+ }
+  footer {
+      padding-top: -16%;
+  }
